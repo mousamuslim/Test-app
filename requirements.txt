@@ -1,0 +1,6 @@
+streamlit
+python-pptx
+gTTS
+pydub
+Pillow
+google-genai
